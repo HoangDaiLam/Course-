@@ -23,7 +23,29 @@ And about my work in the team, i feel that it is better for my team to "judge" m
 Well, I believe that Scrum provides a structured but flexible framework for delivering increments of value. The Transparency and frequent feedback loops improve product quality and team alignment at the same time then create a strong bond between team memmbers.
 
 
+The Scrum Master (Christofer) 
 
+He stand-ups, sprint planning, retrospectives
+
+Removes impediments blocking the team.
+
+Coaches the team in Scrum principles.
+
+The Product Owner (Me) 
+
+I owns and prioritizes the product backlog.
+
+Defines the original user stories and acceptance criteria.
+
+Acts as the voice of my company, ensuring business value is delivered.
+
+Development Team (Praful)
+
+He is the one who design, build, and test increments.
+
+Responsible for delivering potentially shippable product increments each sprint.
+
+Self-organizing, deciding how to accomplish backlog items.
 
 
 
